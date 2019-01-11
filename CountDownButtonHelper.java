@@ -1,4 +1,3 @@
-package com.tencent.qcloud.tlslibrary.helper;
 
 import android.os.CountDownTimer;
 import android.widget.Button;
